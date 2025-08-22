@@ -31,7 +31,6 @@ This Data Analysis Project aims to provide actionable insights into Emergency Ro
 - Female patients report slightly higher satisfaction scores compared to male patients.
 
 ## Visuals
-![Hospital ER](https://github.com/user-attachments/assets/fa0e5050-76c7-479b-b9b5-3d3a29ef8fbb)
-
+![Hospital ER Dashboard](./Hospital%20ER.gif)
 ## File
--  → Power BI report file (open in Power BI Desktop).
+[Download Hospital ER Dashboard](./Hospital_ER_Dashboard.pbix)
