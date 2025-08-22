@@ -34,4 +34,4 @@ This Data Analysis Project aims to provide actionable insights into Emergency Ro
 ![Hospital ER](https://github.com/user-attachments/assets/fa0e5050-76c7-479b-b9b5-3d3a29ef8fbb)
 
 ## File
-- `Hospital_ER_Dashboard.pbix` → Power BI report file (open in Power BI Desktop).
+-  → Power BI report file (open in Power BI Desktop).
