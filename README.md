@@ -1,4 +1,4 @@
-![Hospital_ER pbix](https://github.com/user-attachments/assets/a71da8ce-10f5-4348-b636-7b552393c711)# Hospital_ER_Dashboard
+# Hospital_ER_Dashboard
 ### Project Overview
 This Data Analysis Project aims to provide actionable insights into Emergency Room (ER) performance by analyzing patient flow, wait times, satisfaction, and referral patterns. The dashboard is designed to help hospital management and staff make data-driven decisions for improving efficiency and patient care.
 
