@@ -31,6 +31,6 @@ This Data Analysis Project aims to provide actionable insights into Emergency Ro
 - Female patients report slightly higher satisfaction scores compared to male patients.
 
 ## Visuals
-![Hospital ER Dashboard](./Hospital%20ER.gif)
+![Hospital_ER_Dashboard](./Hospital20%ER.GIF)
 ## File
 [Download Hospital ER Dashboard](./Hospital_ER_Dashboard.pbix)
