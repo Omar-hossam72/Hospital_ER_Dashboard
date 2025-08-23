@@ -13,6 +13,11 @@ This Data Analysis Project aims to provide actionable insights into Emergency Ro
 - Patients by Race → Racial/ethnic distribution.
 - Patients by Day & Hour → Identify peak times of ER activity.
 - Patients by Department Referral → Which departments patients are most often referred to.
+
+## Tools & Technologies
+- Power BI
+- Data Cleaning & Transformation (Power Query / DAX)
+
 ## Dashboard Views
 1. Monthly view to show all Data for each Month in the year
 2. Consolidated View Dashboard → Overall ER performance KPIs and trends
